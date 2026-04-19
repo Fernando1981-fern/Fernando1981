@@ -9,6 +9,14 @@ I am building strong, hands-on experience with SQL, Python, statistics, and expl
 I am especially interested in sports analytics, particularly soccer, and I am also eager to explore opportunities in finance, where data-driven thinking plays a critical role in strategy and performance.
 
 As a Brazilian national working in the U.S., I bring a people-first leadership style shaped by cultural awareness, collaboration, and experience managing diverse teams.
+
+Fun facts about me:
+- ⚽ I am very passionate about soccer.
+- 🍝 I enjoy cooking.
+- 👨‍👩‍👧‍👦 I love spending time with my family and friends.
+- 🎯My goals for 2026: landing my dream job in data.
+
+
 </p><p align='left'> You can view my resume <a href='file:///C:/Users/gnone/Downloads/Fernando-Gnone%20de%20Oliveira-Resume.pdf ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Fernando1981 alt=Fernando1981 /> </p>
