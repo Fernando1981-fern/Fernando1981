@@ -1,6 +1,10 @@
 ## Hey 👋, This is Fernando Gnone de Oliveira
+<a href="https://www.linkedin.com/in/fernando-gnone-de-oliveira-64188427b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 [![Gmail Badge](https://img.shields.io/badge/-fernandognone03@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fernandognone03@gmail.com)](mailto:fernandognone03@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando Gnone de Oliveira-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Fernando Gnone de Oliveira/)](https://www.linkedin.com/in/Fernando Gnone de Oliveira/) [![Github Badge](https://img.shields.io/badge/-Fernando1981-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Fernando1981/)](https://www.github.com/Fernando1981/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Fernando1981-fern?tab=repositories/)](https://github.com/Fernando1981-fern?tab=repositories/) <p align='left'>Hi, I’m Fernando, a Data Scientist with a background in operations and team leadership in fast-paced environments.
+ [![Github Badge](https://img.shields.io/badge/-Fernando1981-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Fernando1981/)](https://www.github.com/Fernando1981/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Fernando1981-fern?tab=repositories/)](https://github.com/Fernando1981-fern?tab=repositories/) <p align='left'>Hi, I’m Fernando, a Data Scientist with a background in operations and team leadership in fast-paced environments.
 
 I currently work as a Team Lead at Panera Bread and previously spent over two years as a Food Manager. In these roles, I consistently relied on data to guide decisions, from tracking performance metrics and reducing food waste to improving inventory forecasting and ordering processes. Working closely with numbers, trends, and outcomes on a daily basis is what led me to formalize my analytical skill set and move deeper into data science.
 
